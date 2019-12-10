@@ -1,3 +1,5 @@
+#!/bin/bash
+
 FROM alpine:3.10
 MAINTAINER dengnan@google.com vmarmol@google.com vishnuk@google.com jimmidyson@gmail.com stclair@google.com
 
